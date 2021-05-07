@@ -1,2 +1,2 @@
-# loan-prediction-hackathon
+# Loan Prediction Hackathon
 Analytics Vidhya Contest Submission
